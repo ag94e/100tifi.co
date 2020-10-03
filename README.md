@@ -3,7 +3,7 @@
 A Single Page Aplication.
 
 # DEMO
-[https://100tifi.co](https://100tifi.co)
+[https://ag94e.github.io/100tifi.co/](https://ag94e.github.io/100tifi.co/)
 
 ## Install Dependencies
 ```

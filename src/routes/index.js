@@ -6,7 +6,7 @@ import getHash from '../utils/getHash'
 import resolveRoutes from '../utils/resolveRoutes'
 
 const routes = {
-    '/': Home,
+    '/100tifi.co': Home,
     '/:id': Character,
     '/contact': 'Contact',
 }
